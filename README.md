@@ -93,6 +93,6 @@ Top Rule Triggered
 Meer Tozammel Hossain
 Department of Statistics  
 University of Dhaka  
-Project Type: SQL Portfolio
+Project Type: Excel Portfolio
 Status: Completed  
 
